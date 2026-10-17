@@ -1,4 +1,5 @@
 numpy
+seaborn
 pandas
 scikit-learn
 nltk
